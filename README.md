@@ -6,7 +6,7 @@ Cloud Transformation Consultant | AWS | Data Infra | MBA | Ex-Ministry of Financ
 
 I help public and private sector organizations modernize their data platforms using cloud-native solutions with a strong focus on ROI, scalability, and business outcomes.
 
-📁 Project 1: Marketing Intelligence Platform for a Home Services Marketplace
+# 📁 Project 1: Marketing Intelligence Platform for a Home Services Marketplace
 
 Domain: Marketing Tech (North America)Client: Leading multi-brand home services platform (similar to UrbanClap)Problem: Disconnected campaign data from 5+ vendors, Excel-based reports, lag in insights
 
