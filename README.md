@@ -1,32 +1,59 @@
-# Fin_intelligence-
+💼 Cloud Transformation Projects by Surya Pratap Singh
 
-Modernizing Government Intelligence Pipelines with CloudTransforming Financial Crime Surveillance with Scalable Data Infrastructure: A Case Study
-<img width="2626" height="355" alt="image" src="https://github.com/user-attachments/assets/82774990-e655-4444-8126-785f86afecf5" />
+👨‍💻 About Me
 
-Context: Financial Intelligence in the Public Sector
-<img width="1596" height="158" alt="image" src="https://github.com/user-attachments/assets/9323e24a-f744-49b5-938a-d240dd794bd4" />
-Client Description:A central intelligence agency under the Ministry of Finance focused on tracking illegal financial flows, trade misinvoicing, and smuggling.
-Legacy Problems:
-Ingesting data from 10+ departments (airports, customs, SEZs, trade portals)
-Reliance on on-prem SQL and Excel workflows
-Delays in actionable intelligence → slow interdictions
-<img width="2511" height="396" alt="image" src="https://github.com/user-attachments/assets/6c6f7eac-0e6c-4861-bfd1-4386a14910bc" />
+Cloud Transformation Consultant | AWS | Data Infra | MBA | Ex-Ministry of Finance
 
-Where was the Leakage
-<img width="894" height="175" alt="image" src="https://github.com/user-attachments/assets/816e0213-187c-4227-b591-75792a430e93" />
-⛔ Data silos between agencies and systems (manual CSV sharing)
-🕒 Ingestion lag: 24–48 hours → loss of real-time relevance
-🔍 Poor deduplication + join logic across passenger, cargo & trade logs
-🔐 High operational risk (no audit trail, no RBAC)
-🧠 No downstream insights or anomaly tagging
-<img width="1237" height="261" alt="image" src="https://github.com/user-attachments/assets/441c9cdd-a5a3-4a61-bcee-4f39cb412c07" />
+I help public and private sector organizations modernize their data platforms using cloud-native solutions with a strong focus on ROI, scalability, and business outcomes.
 
-My role
-Led the architecture and migration design
-Migrated critical SQL logic into scalable Lambda ETL scripts
-Designed the schema, partitions, and Glue Catalog structure
-Set up permissioned access controls and logging for audit
-Trained government users on Quicksight + S3 lifecycle management
-<img width="1195" height="261" alt="image" src="https://github.com/user-attachments/assets/548b0a5f-15d5-4664-b53c-98ecde95d957" />
+📁 Project 1: Marketing Intelligence Platform for a Home Services Marketplace
 
-Results Achieved
+Domain: Marketing Tech (North America)Client: Leading multi-brand home services platform (similar to UrbanClap)Problem: Disconnected campaign data from 5+ vendors, Excel-based reports, lag in insights
+
+✅ Goals
+
+Unified real-time KPI dashboard across brands and vendors
+
+Reduce reporting lag from 2 days to real-time
+
+Enable standardized marketing analytics and ROI insights
+
+🛠️ Cloud Architecture
+
+Data Ingestion: AWS Lambda + API Gateway
+
+Storage: AWS S3 (Raw → Clean → Curated)
+
+ETL: AWS Glue (PySpark Jobs)
+
+Query Layer: AWS Athena
+
+BI Layer: AWS Quicksight
+
+Infra-as-Code: Terraform + GitHub Actions
+
+💡 Outcomes
+
+Metric
+
+Before
+
+After
+
+Dashboard Latency
+
+2 Days
+
+Real-time
+
+Reporting Cost
+
+High (manual + agency hours)
+
+~40% Lower
+
+Campaign ROI Mapping
+
+Not Possible
+
+Fully Tracked
